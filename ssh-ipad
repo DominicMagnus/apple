@@ -1,0 +1,13 @@
+After installing/enabling OpenSSH, here are some simple steps to get started:
+
+1.) Right Click on your Windows Start Button (or press Windows Key + X) and open Command Prompt (or Windows Powershell).
+
+2.) On your iOS Device, Open Settings and go to WiFi > Wifi Info ('i' next to your current WiFi Network) and Copy your IP Address.
+
+3.) In your Command Prompt window, type "ssh root@<Your IP Address>" without quotes. You will be then prompted to accept. Just type "yes" and press Enter.
+
+4.) You will then be prompted for the password. Type the default password which is alpine (unless it was of course, changed).
+
+
+ssh root@Your IP Address
+# pass  "alpine"
