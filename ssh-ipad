@@ -11,3 +11,5 @@ After installing/enabling OpenSSH, here are some simple steps to get started:
 
 ssh root@Your IP Address
 # pass  "alpine"
+
+3f059b3c - VLC
